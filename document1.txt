@@ -2,6 +2,7 @@ def partition(l, r, nums):
     pass
  
 #add someone
+branch2dml duddjfh wjrrl
 
 # With quicksort() function, we will be utilizing the above code to obtain the pointer
 # at which the left values are all smaller than the number at pointer index and vice versa
