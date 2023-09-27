@@ -1,4 +1,4 @@
-def partition(l, r, nums):
+vkdlf tnwjdgkrh apdls vkdlf tnwjdgkrl
     pass
  
 #add someone

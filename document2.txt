@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#add any some
+#일부러 충돌상황 만들기
 
 // Merges two subarrays of arr[].
 // First subarray is arr[l..m]
